@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: rgb(5, 144, 187);
+    margin-left: 20px;
+  }
+  h2 {
+    color: rgb(5, 144, 187);
+    margin-left: 20px;
+  }
+  table {
+    color: black;
+    margin-left: 20px;
+    font-family: verdana;
+    font-size: 12px;
+  }
+  h3 {
+    color: rgb(5, 144, 187);
+    margin-left: 20px;
+  }
