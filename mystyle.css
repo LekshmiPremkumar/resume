@@ -6,10 +6,7 @@ body {
     color: rgb(5, 144, 187);
     margin-left: 20px;
   }
-  h2 {
-    color: rgb(5, 144, 187);
-    margin-left: 20px;
-  }
+ 
   table {
     color: black;
     margin-left: 20px;
@@ -20,3 +17,12 @@ body {
     color: rgb(5, 144, 187);
     margin-left: 20px;
   }
+
+.job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid rgb(24, 20, 20); }
+.job h4 { position: absolute; top: 0.35em; right: 0 ;}
+.job p { margin: .75em 0 1em 0; }
+
+.yui-gf .yui-u{width:80.2%;}
+.yui-gf div.first{width:12.3%;}
+
+
